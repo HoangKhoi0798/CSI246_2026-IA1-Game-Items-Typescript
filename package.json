@@ -1,0 +1,25 @@
+{
+  "name": "csi246_2026-ia1-game-items-typescript",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">  \r     <img src=\"logo.jpg\" alt=\"Logo\">\r     <h3 align=\"center\">Independent Activity 1: Simple Game Inventory</h3>\r </div>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HoangKhoi0798/CSI246_2026-IA1-Game-Items-Typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/HoangKhoi0798/CSI246_2026-IA1-Game-Items-Typescript/issues"
+  },
+  "homepage": "https://github.com/HoangKhoi0798/CSI246_2026-IA1-Game-Items-Typescript#readme",
+  "devDependencies": {
+    "@types/node": "^26.6.3",
+    "typescript": "^7.0.2"
+  }
+}
